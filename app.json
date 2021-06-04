@@ -1,0 +1,64 @@
+{
+  "pages": [
+    "pages/work1/index",
+    "pages/work2/index",
+    "pages/work3/index",
+    "pages/work4/index",
+    "pages/work4p/index",
+    "pages/work5/index",
+    "pages/work5p/index",
+    "pages/work5pp/index",
+    "pages/work6/property",
+    "pages/work6/divorce",
+    "pages/work7/index",
+    "pages/work8/index",
+    "pages/work8/intro",
+    "pages/work8/video",
+    "pages/work8/map",
+    "pages/work8/leader",
+    "pages/work8/scenery",
+    "pages/work9/index",
+    "pages/work9p/index",
+    "pages/work10/index",
+    "pages/work11/index",
+    "pages/colorPicker/colorPicker",
+    "pages/work12/index",
+    "pages/work13/index",
+    "pages/work14/index",
+    "pages/work15/index",
+    "pages/work16/index",
+    "pages/work17/register",
+    "pages/work17/profile",
+    "pages/work17/rank"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "07190804陈俊娜",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/work6/property",
+        "text": "财产",
+        "iconPath": "pages/work6/images/m2.png",
+        "selectedIconPath": "pages/work6/images/m1.png"
+      },
+      {
+        "pagePath": "pages/work6/divorce",
+        "text": "离婚",
+        "iconPath": "pages/work6/images/n2.png",
+        "selectedIconPath": "pages/work6/images/n1.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "定位用于跑步数据"
+    }
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
